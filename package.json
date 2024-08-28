@@ -1,0 +1,30 @@
+{
+  "name": "gce",
+  "version": "1.0.0",
+  "description": "Cambridge International Examinations (CAIE) Past Papers Downloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./.git"
+  },
+  "keywords": [
+    "CAIE",
+    "Cambridge",
+    "Exam",
+    "Education",
+    "Past",
+    "Papers",
+    "IGCSE",
+    "AS",
+    "and",
+    "A",
+    "Level"
+  ],
+  "author": "Reetabrata Bhandari",
+  "license": "MIT"
+}
